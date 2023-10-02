@@ -166,7 +166,7 @@ body.single .wgl-container .row.single_type-3 {
   padding-top: 68px;
 }
 
-body.elementor-page #main-content > .blog-posts .elementor {
+body.elementor-page #main-content > .blog-posts .elementor-section-wrap {
   margin-left: -15px;
   margin-right: -15px;
 }

@@ -504,9 +504,9 @@ if (!class_exists('Cleenday_Global_Functions')) {
 
                     // Scroll Up Button
                     if ($scroll_up) {
-                        echo '<div id="scroll_up">',
+                        echo '<a href="#" id="scroll_up">',
                             $scroll_up_as_text ? $scroll_up_text : '',
-                        '</div>';
+                            '</a>';
                     }
 
                     // Dynamic Styles

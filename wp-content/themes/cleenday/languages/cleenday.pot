@@ -1,4 +1,4 @@
-# Copyright (C) 2023 WebGeniusLab
+# Copyright (C) 2022 WebGeniusLab
 # This file is distributed under the same license as the WebGeniusLab package.
 msgid ""
 msgstr ""
@@ -65,43 +65,43 @@ msgstr ""
 msgid "POST COMMENT"
 msgstr ""
 
-#: cleenday/core/class/dynamic-styles.php:724
+#: cleenday/core/class/dynamic-styles.php:722
 msgid "Clear"
 msgstr ""
 
-#: cleenday/core/class/dynamic-styles.php:725
+#: cleenday/core/class/dynamic-styles.php:723
 msgid "Clear color"
 msgstr ""
 
-#: cleenday/core/class/dynamic-styles.php:726, cleenday/core/class/theme-global-functions.php:184, cleenday/core/class/walker-mega-menu.php:267, cleenday/core/includes/metabox/metabox-config.php:128, cleenday/core/includes/metabox/metabox-config.php:211, cleenday/core/includes/metabox/metabox-config.php:223, cleenday/core/includes/metabox/metabox-config.php:235, cleenday/core/includes/metabox/metabox-config.php:247, cleenday/core/includes/metabox/metabox-config.php:272, cleenday/core/includes/metabox/metabox-config.php:322, cleenday/core/includes/metabox/metabox-config.php:424, cleenday/core/includes/metabox/metabox-config.php:490, cleenday/core/includes/metabox/metabox-config.php:670, cleenday/core/includes/metabox/metabox-config.php:838, cleenday/core/includes/metabox/metabox-config.php:871, cleenday/core/includes/metabox/metabox-config.php:1029, cleenday/core/includes/metabox/metabox-config.php:1075, cleenday/core/includes/metabox/metabox-config.php:1110, cleenday/core/includes/metabox/metabox-config.php:1149, cleenday/core/includes/metabox/metabox-config.php:1508, cleenday/core/includes/metabox/metabox-config.php:1685, cleenday/core/includes/metabox/metabox-config.php:1806, cleenday/core/includes/metabox/metabox-config.php:1940, cleenday/core/includes/redux/redux-config.php:2005, cleenday/core/includes/redux/redux-config.php:3115, cleenday/core/includes/redux/redux-config.php:3442, cleenday/core/includes/redux/redux-config.php:3471, cleenday/core/includes/redux/redux-config.php:3983, cleenday/core/includes/redux/redux-config.php:4327, cleenday/core/includes/redux/redux-config.php:4380, cleenday/core/includes/redux/redux-config.php:4701, cleenday/core/includes/redux/redux-config.php:5396, cleenday/core/includes/redux/redux-config.php:5627, cleenday/core/includes/redux/redux-config.php:5761, cleenday/core/includes/redux/redux-config.php:5790, cleenday/core/includes/redux/redux-config.php:5799
+#: cleenday/core/class/dynamic-styles.php:724, cleenday/core/class/theme-global-functions.php:184, cleenday/core/class/walker-mega-menu.php:267, cleenday/core/includes/metabox/metabox-config.php:128, cleenday/core/includes/metabox/metabox-config.php:211, cleenday/core/includes/metabox/metabox-config.php:223, cleenday/core/includes/metabox/metabox-config.php:235, cleenday/core/includes/metabox/metabox-config.php:247, cleenday/core/includes/metabox/metabox-config.php:272, cleenday/core/includes/metabox/metabox-config.php:322, cleenday/core/includes/metabox/metabox-config.php:424, cleenday/core/includes/metabox/metabox-config.php:490, cleenday/core/includes/metabox/metabox-config.php:670, cleenday/core/includes/metabox/metabox-config.php:838, cleenday/core/includes/metabox/metabox-config.php:871, cleenday/core/includes/metabox/metabox-config.php:1029, cleenday/core/includes/metabox/metabox-config.php:1075, cleenday/core/includes/metabox/metabox-config.php:1110, cleenday/core/includes/metabox/metabox-config.php:1149, cleenday/core/includes/metabox/metabox-config.php:1508, cleenday/core/includes/metabox/metabox-config.php:1685, cleenday/core/includes/metabox/metabox-config.php:1806, cleenday/core/includes/metabox/metabox-config.php:1940, cleenday/core/includes/redux/redux-config.php:2005, cleenday/core/includes/redux/redux-config.php:3115, cleenday/core/includes/redux/redux-config.php:3442, cleenday/core/includes/redux/redux-config.php:3471, cleenday/core/includes/redux/redux-config.php:3983, cleenday/core/includes/redux/redux-config.php:4327, cleenday/core/includes/redux/redux-config.php:4380, cleenday/core/includes/redux/redux-config.php:4701, cleenday/core/includes/redux/redux-config.php:5396, cleenday/core/includes/redux/redux-config.php:5627, cleenday/core/includes/redux/redux-config.php:5761, cleenday/core/includes/redux/redux-config.php:5790, cleenday/core/includes/redux/redux-config.php:5799
 msgid "Default"
 msgstr ""
 
-#: cleenday/core/class/dynamic-styles.php:727
+#: cleenday/core/class/dynamic-styles.php:725
 msgid "Select default color"
 msgstr ""
 
-#: cleenday/core/class/dynamic-styles.php:728
+#: cleenday/core/class/dynamic-styles.php:726
 msgid "Select"
 msgstr ""
 
-#: cleenday/core/class/dynamic-styles.php:729
+#: cleenday/core/class/dynamic-styles.php:727
 msgid "Color value"
 msgstr ""
 
-#: cleenday/core/class/dynamic-styles.php:757, cleenday/core/class/theme-verify.php:200, cleenday/core/class/theme-verify.php:306
+#: cleenday/core/class/dynamic-styles.php:755, cleenday/core/class/theme-verify.php:200, cleenday/core/class/theme-verify.php:306
 msgid "Thank you, your license has been validated"
 msgstr ""
 
-#: cleenday/core/class/single-post.php:696
+#: cleenday/core/class/single-post.php:689
 msgid "By "
 msgstr ""
 
-#: cleenday/core/class/single-post.php:712
+#: cleenday/core/class/single-post.php:705
 msgid "Leave a reply"
 msgstr ""
 
-#: cleenday/core/class/single-post.php:802
+#: cleenday/core/class/single-post.php:795
 msgid "Total Views"
 msgstr ""
 
@@ -4136,7 +4136,7 @@ msgstr ""
 msgid "Enter Your Purchase Code"
 msgstr ""
 
-#: cleenday/core/dashboard/tpl-view-activate-theme.php:52, cleenday/core/tgm/class-tgm-plugin-activation.php:2828
+#: cleenday/core/dashboard/tpl-view-activate-theme.php:52, cleenday/core/tgm/class-tgm-plugin-activation.php:2894
 msgid "Activate"
 msgstr ""
 
@@ -4156,7 +4156,7 @@ msgstr ""
 msgid "Theme Name"
 msgstr ""
 
-#: cleenday/core/dashboard/tpl-view-status.php:74, cleenday/core/dashboard/tpl-view-status.php:317, cleenday/core/tgm/class-tgm-plugin-activation.php:2653
+#: cleenday/core/dashboard/tpl-view-status.php:74, cleenday/core/dashboard/tpl-view-status.php:317, cleenday/core/tgm/class-tgm-plugin-activation.php:2716
 msgid "Version"
 msgstr ""
 
@@ -4398,7 +4398,7 @@ msgstr ""
 msgid "Member Info"
 msgstr ""
 
-#: cleenday/core/includes/metabox/metabox-config.php:71, cleenday/core/includes/metabox/metabox-config.php:192, cleenday/woocommerce/woocommerce-init.php:261
+#: cleenday/core/includes/metabox/metabox-config.php:71, cleenday/core/includes/metabox/metabox-config.php:192, cleenday/woocommerce/woocommerce-init.php:262
 msgid "Name"
 msgstr ""
 
@@ -6506,195 +6506,191 @@ msgstr ""
 msgid "Note: Font Awesome is essential for Cleenday theme. Disable only if it already enqueued by some other plugin."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:334, cleenday/core/tgm/wgl-tgm.php:56
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:335, cleenday/core/tgm/wgl-tgm.php:56
 msgid "Install Required Plugins"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:335, cleenday/core/tgm/wgl-tgm.php:57
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:336, cleenday/core/tgm/wgl-tgm.php:57
 msgid "Install Plugins"
 msgstr ""
 
 #. translators: %s: plugin name.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:337, cleenday/core/tgm/wgl-tgm.php:58
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:338, cleenday/core/tgm/wgl-tgm.php:58
 msgid "Installing Plugin: %s"
 msgstr ""
 
 #. translators: %s: plugin name.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:339
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:340
 msgid "Updating Plugin: %s"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:340, cleenday/core/tgm/wgl-tgm.php:59
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:341, cleenday/core/tgm/wgl-tgm.php:59
 msgid "Something went wrong with the plugin API."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:341, cleenday/core/tgm/wgl-tgm.php:60
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:342, cleenday/core/tgm/wgl-tgm.php:60
 msgid "This theme requires the following plugins: %1$s."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:345, cleenday/core/tgm/wgl-tgm.php:61
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:346, cleenday/core/tgm/wgl-tgm.php:61
 msgid "This theme recommends the following plugins: %1$s."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:349, cleenday/core/tgm/wgl-tgm.php:66
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:350, cleenday/core/tgm/wgl-tgm.php:66
 msgid "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:353
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:354
 msgid "There are updates available for the following plugins: %1$s."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:357, cleenday/core/tgm/wgl-tgm.php:63
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:358, cleenday/core/tgm/wgl-tgm.php:63
 msgid "The following required plugins are currently inactive: %1$s."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:361, cleenday/core/tgm/wgl-tgm.php:64
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:362, cleenday/core/tgm/wgl-tgm.php:64
 msgid "The following recommended plugins are currently inactive: %1$s."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:365, cleenday/core/tgm/wgl-tgm.php:68
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:366, cleenday/core/tgm/wgl-tgm.php:68
 msgid "Begin installing plugins"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:369
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:370
 msgid "Begin updating plugins"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:373, cleenday/core/tgm/wgl-tgm.php:69
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:374, cleenday/core/tgm/wgl-tgm.php:69
 msgid "Begin activating plugins"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:377, cleenday/core/tgm/wgl-tgm.php:70
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:378, cleenday/core/tgm/wgl-tgm.php:70
 msgid "Return to Required Plugins Installer"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:378, cleenday/core/tgm/class-tgm-plugin-activation.php:909, cleenday/core/tgm/class-tgm-plugin-activation.php:2633, cleenday/core/tgm/class-tgm-plugin-activation.php:3688
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:379, cleenday/core/tgm/class-tgm-plugin-activation.php:926, cleenday/core/tgm/class-tgm-plugin-activation.php:2695, cleenday/core/tgm/class-tgm-plugin-activation.php:3758
 msgid "Return to the Dashboard"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:379, cleenday/core/tgm/class-tgm-plugin-activation.php:3262, cleenday/core/tgm/wgl-tgm.php:71
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:380, cleenday/core/tgm/class-tgm-plugin-activation.php:3331, cleenday/core/tgm/wgl-tgm.php:71
 msgid "Plugin activated successfully."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:380, cleenday/core/tgm/class-tgm-plugin-activation.php:3055
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:381, cleenday/core/tgm/class-tgm-plugin-activation.php:3121
 msgid "The following plugin was activated successfully:"
 msgid_plural "The following plugins were activated successfully:"
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: plugin name.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:382
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:383
 msgid "No action taken. Plugin %1$s was already active."
 msgstr ""
 
 #. translators: 1: plugin name.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:384
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:385
 msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
 msgstr ""
 
 #. translators: 1: dashboard link.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:386
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:387
 msgid "All plugins installed and activated successfully. %1$s"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:387
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:388
 msgid "Dismiss this notice"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:388
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:389
 msgid "There are one or more required or recommended plugins to install, update or activate."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:389
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:390
 msgid "Please contact the administrator of this site for help."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:595
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:606
 msgid "This plugin needs to be updated to be compatible with your theme."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:596
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:607
 msgid "Update Required"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:713
-msgid "Set the parent_slug config variable instead."
-msgstr ""
-
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:1019
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:1041
 msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:1019, cleenday/core/tgm/class-tgm-plugin-activation.php:1016
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:1041, cleenday/core/tgm/class-tgm-plugin-activation.php:1038
 msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:1016
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:1038
 msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:1203, cleenday/core/tgm/class-tgm-plugin-activation.php:3051
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:1229, cleenday/core/tgm/class-tgm-plugin-activation.php:3117
 msgctxt "plugin A *and* plugin B"
 msgid "and"
 msgstr ""
 
 #. translators: %s: version number
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2064
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2128
 msgid "TGMPA v%s"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2373
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2426
 msgid "Required"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2376
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2429
 msgid "Recommended"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2392
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2446
 msgid "WordPress Repository"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2395
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2449
 msgid "External Source"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2398
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2452
 msgid "Pre-Packaged"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2415
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2470
 msgid "Not Installed"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2421
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2476
 msgid "Active"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2419
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2474
 msgid "Installed But Not Activated"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2433
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2488
 msgid "Update recommended"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2430
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2485
 msgid "Requires Update"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2427
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2482
 msgid "Required Update not Available"
 msgstr ""
 
 #. translators: 1: install status, 2: update status
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2442
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2497
 msgctxt "Install/Update Status"
 msgid "%1$s, %2$s"
 msgstr ""
 
 #. translators: 1: number of plugins.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2488
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2545
 msgctxt "plugins"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
@@ -6702,170 +6698,170 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: number of plugins.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2492
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2549
 msgid "To Install <span class=\"count\">(%s)</span>"
 msgid_plural "To Install <span class=\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: number of plugins.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2496
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2553
 msgid "Update Available <span class=\"count\">(%s)</span>"
 msgid_plural "Update Available <span class=\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: number of plugins.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2500
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2557
 msgid "To Activate <span class=\"count\">(%s)</span>"
 msgid_plural "To Activate <span class=\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2582
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2643
 msgctxt "as in: \"version nr unknown\""
 msgid "unknown"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2590
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2651
 msgid "Installed version:"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2598
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2659
 msgid "Minimum required version:"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2610
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2671
 msgid "Available version:"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2633
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2695
 msgid "No plugins to install, update or activate."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2647
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2710
 msgid "Plugin"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2648
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2711
 msgid "Source"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2649
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2712
 msgid "Type"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2654
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2717
 msgid "Status"
 msgstr ""
 
 #. translators: %2$s: plugin name in screen reader markup
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2708
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2774
 msgid "Update %2$s"
 msgstr ""
 
 #. translators: %2$s: plugin name in screen reader markup
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2714
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2780
 msgid "Activate %2$s"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2703
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2769
 msgid "Install %2$s"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2786
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2851
 msgid "Upgrade message from the plugin author:"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2819
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2885
 msgid "Install"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2825
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2891
 msgid "Update"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2861
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2928
 msgid "No plugins were selected to be updated. No action taken."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2859
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2926
 msgid "No plugins were selected to be installed. No action taken."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2904
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2971
 msgid "No plugins are available to be updated at this time."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:2902
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:2969
 msgid "No plugins are available to be installed at this time."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3011
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3077
 msgid "No plugins were selected to be activated. No action taken."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3037
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3103
 msgid "No plugins are available to be activated at this time."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3261
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3330
 msgid "Plugin activation failed."
 msgstr ""
 
 #. translators: 1: plugin name, 2: error message.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3604
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3676
 msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
 msgstr ""
 
 #. translators: 1: plugin name.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3606
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3678
 msgid "The installation of %1$s failed."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3618
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3690
 msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
 msgstr ""
 
 #. translators: 1: plugin name.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3620
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3692
 msgid "%1$s installed successfully."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3621
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3692, cleenday/core/tgm/class-tgm-plugin-activation.php:3684
+msgid "Show Details"
+msgstr ""
+
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3692, cleenday/core/tgm/class-tgm-plugin-activation.php:3684
+msgid "Hide Details"
+msgstr ""
+
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3693
 msgid "All installations have been completed."
 msgstr ""
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3623
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3695
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3610
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3682
 msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3612
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3684
 msgid "%1$s installed and activated successfully."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3613
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3685
 msgid "All installations and activations have been completed."
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3615
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3687
 msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3628
-msgid "Show Details"
-msgstr ""
-
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3628
-msgid "Hide Details"
-msgstr ""
-
-#: cleenday/core/tgm/class-tgm-plugin-activation.php:3601
+#: cleenday/core/tgm/class-tgm-plugin-activation.php:3673
 msgid "Updating Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
@@ -7051,47 +7047,47 @@ msgstr ""
 msgid "Showing the single result"
 msgstr ""
 
-#: cleenday/woocommerce/cart/cart.php:22, cleenday/woocommerce/cart/cart.php:63
+#: cleenday/woocommerce/cart/cart.php:23, cleenday/woocommerce/cart/cart.php:55
 msgid "Product"
 msgstr ""
 
-#: cleenday/woocommerce/cart/cart.php:23, cleenday/woocommerce/cart/cart.php:88
+#: cleenday/woocommerce/cart/cart.php:24, cleenday/woocommerce/cart/cart.php:75
 msgid "Price"
 msgstr ""
 
-#: cleenday/woocommerce/cart/cart.php:24, cleenday/woocommerce/cart/cart.php:94, cleenday/woocommerce/global/quantity-input.php:18
+#: cleenday/woocommerce/cart/cart.php:25, cleenday/woocommerce/cart/cart.php:81, cleenday/woocommerce/global/quantity-input.php:24
 msgid "Quantity"
 msgstr ""
 
-#: cleenday/woocommerce/cart/cart.php:25, cleenday/woocommerce/cart/cart.php:120
-msgid "Subtotal"
+#: cleenday/woocommerce/cart/cart.php:26, cleenday/woocommerce/cart/cart.php:103
+msgid "Total"
 msgstr ""
 
-#: cleenday/woocommerce/cart/cart.php:83
+#: cleenday/woocommerce/cart/cart.php:70
 msgid "Available on backorder"
 msgstr ""
 
-#: cleenday/woocommerce/cart/cart.php:132, cleenday/woocommerce/cart/mini-cart.php:45
-msgid "Remove %s from cart"
+#: cleenday/woocommerce/cart/cart.php:115, cleenday/woocommerce/cart/mini-cart.php:38
+msgid "Remove this item"
 msgstr ""
 
-#: cleenday/woocommerce/cart/cart.php:153
+#: cleenday/woocommerce/cart/cart.php:136
 msgid "Coupon:"
 msgstr ""
 
-#: cleenday/woocommerce/cart/cart.php:153
+#: cleenday/woocommerce/cart/cart.php:136
 msgid "Coupon code"
 msgstr ""
 
-#: cleenday/woocommerce/cart/cart.php:153, cleenday/woocommerce/cart/cart.php:153
+#: cleenday/woocommerce/cart/cart.php:136, cleenday/woocommerce/cart/cart.php:136
 msgid "Apply coupon"
 msgstr ""
 
-#: cleenday/woocommerce/cart/cart.php:158, cleenday/woocommerce/cart/cart.php:158
+#: cleenday/woocommerce/cart/cart.php:141, cleenday/woocommerce/cart/cart.php:141
 msgid "Update cart"
 msgstr ""
 
-#: cleenday/woocommerce/cart/mini-cart.php:88
+#: cleenday/woocommerce/cart/mini-cart.php:81
 msgid "No products in the cart."
 msgstr ""
 
@@ -7100,12 +7096,13 @@ msgid "by %s"
 msgstr ""
 
 #. translators: %s: Quantity.
-#: cleenday/woocommerce/global/quantity-input.php:18
+#: cleenday/woocommerce/global/quantity-input.php:24
 msgid "%s quantity"
 msgstr ""
 
 #: cleenday/woocommerce/global/quantity-input.php:40
-msgid "Product quantity"
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
 msgstr ""
 
 #: cleenday/woocommerce/product-searchform.php:18
@@ -7149,75 +7146,75 @@ msgstr ""
 msgid "You may also like&hellip;"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:235
+#: cleenday/woocommerce/woocommerce-init.php:236
 msgid "verified owner"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:214
+#: cleenday/woocommerce/woocommerce-init.php:215
 msgid "Your review is awaiting approval"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:254
+#: cleenday/woocommerce/woocommerce-init.php:255
 msgid "Add a review"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:254
+#: cleenday/woocommerce/woocommerce-init.php:255
 msgid "Be the first to review &ldquo;%s&rdquo;"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:255
+#: cleenday/woocommerce/woocommerce-init.php:256
 msgid "Leave a Reply to %s"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:263
+#: cleenday/woocommerce/woocommerce-init.php:264
 msgid "Email"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:265
+#: cleenday/woocommerce/woocommerce-init.php:266
 msgid "Submit"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:276
+#: cleenday/woocommerce/woocommerce-init.php:277
 msgid "You must be <a href=\"%s\">logged in</a> to post a review."
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:280
+#: cleenday/woocommerce/woocommerce-init.php:281
 msgid "Your Rating For This Product"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:281
+#: cleenday/woocommerce/woocommerce-init.php:282
 msgid "Rate&hellip;"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:282
+#: cleenday/woocommerce/woocommerce-init.php:283
 msgid "Perfect"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:283
+#: cleenday/woocommerce/woocommerce-init.php:284
 msgid "Good"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:284
+#: cleenday/woocommerce/woocommerce-init.php:285
 msgid "Average"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:285
+#: cleenday/woocommerce/woocommerce-init.php:286
 msgid "Not that bad"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:286
+#: cleenday/woocommerce/woocommerce-init.php:287
 msgid "Very poor"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:290
+#: cleenday/woocommerce/woocommerce-init.php:291
 msgid "Your review"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:622
+#: cleenday/woocommerce/woocommerce-init.php:623
 msgid "Additional info"
 msgstr ""
 
-#: cleenday/woocommerce/woocommerce-init.php:650
+#: cleenday/woocommerce/woocommerce-init.php:651
 msgctxt "breadcrumb"
 msgid "Home"
 msgstr ""

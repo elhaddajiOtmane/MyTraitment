@@ -23,8 +23,6 @@ class Cleenday_Dynamic_Styles
     private $use_minified;
     private $enqueued_stylesheets = [];
     private $header_page_id;
-    private ?string $header_building_tool;
-    private ?string $gradient_enabled;
 
     public function __construct()
     {

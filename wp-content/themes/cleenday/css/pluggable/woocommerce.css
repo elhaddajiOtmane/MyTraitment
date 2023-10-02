@@ -1477,9 +1477,6 @@ ul.wgl-products li.product a.wc-forward {
   margin-right: 20px;
   margin-bottom: 15px;
 }
-.woocommerce div.product form.cart div.quantity.hidden {
-  display: none;
-}
 .woocommerce div.product form.cart .woocommerce-variation-add-to-cart-disabled .wgl-button {
   opacity: 0.5;
 }

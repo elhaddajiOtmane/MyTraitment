@@ -55,7 +55,7 @@ $allowed_html = [
                                     </p>
                                 </div>
                                 <div class="wgl-info-box_btn">
-                                    <a target="_blank" href="http://wgl-demo.net/cleenday/docs">
+                                    <a target="_blank" href="http://cleenday.wgl-demo.net/doc">
                                         <?php
                                             esc_html_e('Visit Documentation', 'cleenday');
                                         ?>
@@ -148,3 +148,4 @@ $allowed_html = [
 
     </div>
 </div>
+

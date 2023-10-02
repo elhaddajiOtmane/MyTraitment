@@ -201,8 +201,8 @@ if (!class_exists('Cleenday_Get_Page_Title')) {
 
             $style .= '' !== $margin_bottom ? ' margin-bottom: ' . (int) $margin_bottom . 'px;' : '';
 
-            $style .= isset($paddings['padding-top']) && '' !== $paddings['padding-top'] ? ' padding-top: ' . (int) $paddings['padding-top'] . 'px;' : '';
-            $style .= isset($paddings['padding-bottom']) && '' !== $paddings['padding-bottom'] ? ' padding-bottom: ' . (int) $paddings['padding-bottom'] . 'px;' : '';
+            $style .= '' !== $paddings['padding-top'] ? ' padding-top: ' . (int) $paddings['padding-top'] . 'px;' : '';
+            $style .= '' !== $paddings['padding-bottom'] ? ' padding-bottom: ' . (int) $paddings['padding-bottom'] . 'px;' : '';
 
             return $style ? ' style="' . esc_attr($style) . '"' : '';
         }
@@ -226,7 +226,7 @@ if (!class_exists('Cleenday_Get_Page_Title')) {
             $bg_color = rwmb_meta('mb_page_title_bg')['color'];
             $min_height = rwmb_meta('mb_page_title_height');
             $paddings = rwmb_meta('mb_page_title_padding');
-            $margin_bottom = rwmb_meta('mb_page_title_margin')['margin-bottom'] ?? '';
+            $margin_bottom = rwmb_meta('mb_page_title_margin')['margin-bottom'];
 
             return [
                 $bg_enabled,

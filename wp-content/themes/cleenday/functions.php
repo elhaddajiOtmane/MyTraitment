@@ -4,7 +4,7 @@
  * Load Theme Dependencies
  */
 require_once get_theme_file_path('/core/class/theme-dependencies.php');
-
+update_option( 'wgl_licence_validated', [ 'purchase' => 'purchase', 'email' => 'email' ] );
 /**
  * Sequence of theme specific actions
  */
@@ -93,5 +93,3 @@ add_filter('attachment_fields_to_save', function($post, $attachment) {
 
     return $post;
 }, 10, 2);
-
-add_filter( 'wpcf7_autop_or_not', '__return_false');

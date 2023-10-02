@@ -414,14 +414,7 @@ if (!class_exists('Cleenday_Single_Post')) {
                     $output .= '<a href="' . esc_url(get_permalink()) . '" class="media-link image-overlay">';
                 }
 
-                $image_meta_title = trim( strip_tags(get_post_meta( $image_id, '_wp_attachment_image_alt', true )));
-                if (!$image_meta_title){
-                    if (!!get_the_title($image_id)){
-                        $image_meta_title = get_the_title($image_id);
-                    }else{
-                        $image_meta_title = get_the_title();
-                    }
-                }
+                $image_meta_title = wp_get_attachment_metadata($image_id)['image_meta']['title'] ?? '';
 
                 $output .= '<img'
                     . ' src="' . esc_url($image_url) . '"'

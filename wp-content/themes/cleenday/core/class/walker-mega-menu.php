@@ -223,10 +223,10 @@ if (!class_exists( 'Cleenday_Mega_Menu_Waker')) {
 
             $item_output = $args->before ?? '';
             $item_output .= '<a' . $attributes . '>';
-            $item_output .= $args->link_before ?? '';
+            $item_output .= $args->link_before;
             $item_output .= '<span class="item_text">';
                 $item_output .= $menu_item;
-                $item_output .= $args->link_after ?? '';
+                $item_output .= $args->link_after;
             $item_output .= '</span>';
             $item_output .= '<i class="menu-item__plus">';
                 $item_output .= $children_counter ?? '';

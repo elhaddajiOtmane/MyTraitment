@@ -1023,7 +1023,7 @@ function cleenday_menu_lavalamp() {
     Lavalamp.prototype = {
         options: {
             current:
-                '.current-menu-ancestor,.current-menu-item,.current-category-ancestor,.current-page-ancestor,.current_page_parent',
+                '.current-menu-ancestor,.current-menu-item,.current-category-ancestor',
             items: 'li',
             bubble: '<div class="lavalamp-object fas fa-caret-up"></div>',
             animation: false,
