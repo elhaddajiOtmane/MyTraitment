@@ -1,0 +1,106 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 23/09/2020 12:02
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-marker:before { content: "\f100"; }
+.flaticon-close:before { content: "\f101"; }
+.flaticon-arrow:before { content: "\f102"; }
+.flaticon-heart:before { content: "\f103"; }
+.flaticon-tick:before { content: "\f104"; }
+.flaticon-heart-1:before { content: "\f105"; }
+.flaticon-cart:before { content: "\f106"; }
+.flaticon-link:before { content: "\f107"; }
+.flaticon-socket:before { content: "\f108"; }
+.flaticon-back:before { content: "\f109"; }
+.flaticon-null:before { content: "\f10a"; }
+.flaticon-null-1:before { content: "\f10b"; }
+.flaticon-map:before { content: "\f10c"; }
+.flaticon-quote:before { content: "\f10d"; }
+.flaticon-null-2:before { content: "\f10e"; }
+.flaticon-null-3:before { content: "\f10f"; }
+.flaticon-play:before { content: "\f110"; }
+.flaticon-null-4:before { content: "\f111"; }
+.flaticon-clock:before { content: "\f112"; }
+.flaticon-gift-card:before { content: "\f113"; }
+.flaticon-euro:before { content: "\f114"; }
+.flaticon-tick-1:before { content: "\f115"; }
+.flaticon-smartphone:before { content: "\f116"; }
+.flaticon-chat:before { content: "\f117"; }
+.flaticon-share:before { content: "\f118"; }
+.flaticon-ebook:before { content: "\f119"; }
+.flaticon-group:before { content: "\f11a"; }
+.flaticon-sms:before { content: "\f11b"; }
+.flaticon-null-5:before { content: "\f11c"; }
+.flaticon-null-6:before { content: "\f11d"; }
+.flaticon-null-7:before { content: "\f11e"; }
+.flaticon-star:before { content: "\f11f"; }
+.flaticon-view:before { content: "\f120"; }
+    
+    $font-Flaticon-marker: "\f100";
+    $font-Flaticon-close: "\f101";
+    $font-Flaticon-arrow: "\f102";
+    $font-Flaticon-heart: "\f103";
+    $font-Flaticon-tick: "\f104";
+    $font-Flaticon-heart-1: "\f105";
+    $font-Flaticon-cart: "\f106";
+    $font-Flaticon-link: "\f107";
+    $font-Flaticon-socket: "\f108";
+    $font-Flaticon-back: "\f109";
+    $font-Flaticon-null: "\f10a";
+    $font-Flaticon-null-1: "\f10b";
+    $font-Flaticon-map: "\f10c";
+    $font-Flaticon-quote: "\f10d";
+    $font-Flaticon-null-2: "\f10e";
+    $font-Flaticon-null-3: "\f10f";
+    $font-Flaticon-play: "\f110";
+    $font-Flaticon-null-4: "\f111";
+    $font-Flaticon-clock: "\f112";
+    $font-Flaticon-gift-card: "\f113";
+    $font-Flaticon-euro: "\f114";
+    $font-Flaticon-tick-1: "\f115";
+    $font-Flaticon-smartphone: "\f116";
+    $font-Flaticon-chat: "\f117";
+    $font-Flaticon-share: "\f118";
+    $font-Flaticon-ebook: "\f119";
+    $font-Flaticon-group: "\f11a";
+    $font-Flaticon-sms: "\f11b";
+    $font-Flaticon-null-5: "\f11c";
+    $font-Flaticon-null-6: "\f11d";
+    $font-Flaticon-null-7: "\f11e";
+    $font-Flaticon-star: "\f11f";
+    $font-Flaticon-view: "\f120";

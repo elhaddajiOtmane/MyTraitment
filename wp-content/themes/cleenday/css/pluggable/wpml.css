@@ -1,0 +1,184 @@
+/* ==================== ##WPML ==================== */
+body .wpml-ls a span:focus {
+  outline: none;
+}
+
+body li.wpml-ls-menu-item ul li a {
+  width: auto;
+}
+
+.wgl-theme-header [class^=position_right] .wpml-ls-legacy-dropdown .wpml-ls-sub-menu {
+  right: 0;
+  left: auto;
+}
+
+.sitepress_container > .wpml-ls {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+  z-index: 1;
+}
+.sitepress_container > .wpml-ls > ul,
+.sitepress_container > .wpml-ls > ul > li {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+.sitepress_container > .wpml-ls > ul {
+  letter-spacing: 0.02em;
+}
+.sitepress_container > .wpml-ls > ul > li:before {
+  display: none;
+}
+.sitepress_container > .wpml-ls li a.wpml-ls-item-toggle {
+  position: relative;
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+  height: 100%;
+  z-index: 1;
+  box-sizing: border-box;
+  transition: color 0.3s;
+}
+.sitepress_container > .wpml-ls li a.wpml-ls-item-toggle:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+
+body .wpml-ls-legacy-dropdown {
+  width: auto;
+  text-align: center;
+}
+body .wpml-ls-legacy-dropdown .wpml-ls-current-language:hover .wpml-ls-sub-menu,
+body .wpml-ls-legacy-dropdown .wpml-ls-current-language:focus .wpml-ls-sub-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translate3d(0px, 0px, 0px);
+}
+body .wpml-ls-legacy-dropdown .wpml-ls-current-language a:hover {
+  background: none;
+  border: 0;
+}
+body .wpml-ls-legacy-dropdown .wpml-ls-current-language:hover > a {
+  background: none;
+  border: 0;
+}
+body .wpml-ls-legacy-dropdown .wpml-ls-sub-menu {
+  border-top: 0;
+  padding: 23px 0;
+  margin-top: 0;
+  min-width: 200px;
+  box-sizing: border-box;
+  text-align: left;
+  left: auto;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease-in;
+  top: calc(100% + 10px);
+  box-shadow: 0 0 28.5px 1.5px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  transform: translate3d(0px, 5px, 0px);
+  will-change: transform;
+}
+body .wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item:before {
+  display: none;
+}
+body .wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item a {
+  display: flex;
+  align-items: center;
+  line-height: 30px;
+  padding: 2px 30px;
+  width: 100%;
+  position: relative;
+  transition: color 0.45s, opacity 0.45s, background 0.45s;
+  border-radius: 0;
+}
+body .wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item a span {
+  position: relative;
+}
+body .wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-flag + span {
+  margin: 0 0.35em 0 0;
+  order: -1;
+}
+body .wpml-ls-legacy-dropdown .wpml-ls-sub-menu:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: -10px;
+  left: 0;
+  width: 100%;
+  height: 10px;
+}
+body .wpml-ls-legacy-dropdown a {
+  background: none;
+  border: 0;
+  color: inherit;
+}
+body .wpml-ls-legacy-dropdown a.wpml-ls-item-toggle {
+  padding: 5px 0;
+  line-height: 0;
+}
+body .wpml-ls-legacy-dropdown a:hover {
+  color: inherit;
+  background: none;
+  transition: 0s;
+}
+body .wpml-ls-legacy-dropdown a:active {
+  color: inherit;
+  background: none;
+  transition: 0s;
+}
+body .wpml-ls-legacy-dropdown a:visited {
+  color: inherit;
+  background: none;
+  transition: 0s;
+}
+body .wpml-ls-legacy-dropdown a:link {
+  color: inherit;
+  background: none;
+  transition: 0s;
+}
+body .wpml-ls-legacy-dropdown a.wpml-ls-item-toggle {
+  padding-right: 19px;
+}
+body .wpml-ls-legacy-dropdown a.wpml-ls-item-toggle:after {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  content: "\f102";
+  font-family: "Flaticon";
+  display: block;
+  transform: rotate(90deg);
+  font-size: 9px;
+  vertical-align: middle;
+  font-weight: 400;
+  margin-right: 1px;
+  transition: all 0.45s;
+  border: unset;
+  line-height: 0;
+  font-style: normal;
+  letter-spacing: normal;
+}
+body .wpml-ls-legacy-dropdown a.wpml-ls-item-toggle > span {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 30px;
+  margin: 0 0.35em 0 0;
+  order: -1;
+}
+
+.elementor-widget-wgl-header-wpml.submenu-pos-left .wpml-ls-sub-menu {
+  right: auto;
+  left: 0;
+}
+.elementor-widget-wgl-header-wpml.submenu-pos-center .wpml-ls-sub-menu {
+  left: -100px;
+  right: -100px;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: auto;
+}

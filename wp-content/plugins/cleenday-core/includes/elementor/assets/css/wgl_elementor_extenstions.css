@@ -1,0 +1,169 @@
+/* Elementor styles */
+.elementor-panel .elementor-element .icon [class*="wgl-"]{
+    width: 70px;
+    height: 46px;
+    background-size: 60px 46px;
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: 10px;
+    left: 6px;
+    display: block;
+    margin: 0 auto;
+}
+.elementor-panel .elementor-element .icon [class*="wgl-"]{
+    background-image: url(../img/wgl_elementor_addon/icons/wgl.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-blog{
+    background-image: url(../img/wgl_elementor_addon/icons/blog.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-pricing-table{
+    background-image: url(../img/wgl_elementor_addon/icons/pricing_table.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-info-box{
+    background-image: url(../img/wgl_elementor_addon/icons/info_box.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-carousel{
+    background-image: url(../img/wgl_elementor_addon/icons/carousel.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-team{
+    background-image: url(../img/wgl_elementor_addon/icons/team.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-portfolio{
+    background-image: url(../img/wgl_elementor_addon/icons/portfolio_module.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-gallery{
+    background-image: url(../img/wgl_elementor_addon/icons/portfolio_module.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-button{
+    background-image: url(../img/wgl_elementor_addon/icons/button.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-progress-bar{
+    background-image: url(../img/wgl_elementor_addon/icons/progress_bar.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-testimonials{
+    background-image: url(../img/wgl_elementor_addon/icons/testimonials.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-clients{
+    background-image: url(../img/wgl_elementor_addon/icons/clients.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-image-layers{
+    background-image: url(../img/wgl_elementor_addon/icons/image_layers.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-double-headings{
+    background-image: url(../img/wgl_elementor_addon/icons/double_text.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-video-popup{
+    background-image: url(../img/wgl_elementor_addon/icons/video_popup.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-countdown{
+    background-image: url(../img/wgl_elementor_addon/icons/countdown.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-time-line-vertical{
+    background-image: url(../img/wgl_elementor_addon/icons/vertical_timeline.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-image-comparison{
+    background-image: url(../img/wgl_elementor_addon/icons/image_comparison.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-striped-services{
+    background-image: url(../img/wgl_elementor_addon/icons/striped_services.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-toggle-accordion{
+    background-image: url(../img/wgl_elementor_addon/icons/toggle.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-tabs{
+    background-image: url(../img/wgl_elementor_addon/icons/tabs.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-services-sat {
+    background-image: url(../img/wgl_elementor_addon/icons/services_sat.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-services-1 {
+    background-image: url(../img/wgl_elementor_addon/icons/services_1.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-services-2 {
+    background-image: url(../img/wgl_elementor_addon/icons/services_2.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-services-3 {
+    background-image: url(../img/wgl_elementor_addon/icons/services_3.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-services-4{
+    background-image: url(../img/wgl_elementor_addon/icons/services_4.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-flipbox{
+    background-image: url(../img/wgl_elementor_addon/icons/flip_box.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-counter{
+    background-image: url(../img/wgl_elementor_addon/icons/counters.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-demo-item{
+    background-image: url(../img/wgl_elementor_addon/icons/demo.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-accordion-services{
+    background-image: url(../img/wgl_elementor_addon/icons/accordion_services.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-events{
+    background-image: url(../img/wgl_elementor_addon/icons/events.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-working-hours{
+    background-image: url(../img/wgl_elementor_addon/icons/working_hours.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-header-cart{
+    background-image: url(../img/wgl_elementor_addon/icons/header-cart.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-header-date{
+    background-image: url(../img/wgl_elementor_addon/icons/date.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-header-delimiter{
+    background-image: url(../img/wgl_elementor_addon/icons/header-delimiter.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-header-list-info{
+    background-image: url(../img/wgl_elementor_addon/icons/header-list-info.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-header-logo{
+    background-image: url(../img/wgl_elementor_addon/icons/header-logo.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-header-menu{
+    background-image: url(../img/wgl_elementor_addon/icons/header-menu.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-header-search{
+    background-image: url(../img/wgl_elementor_addon/icons/header-search.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-header-side_panel{
+    background-image: url(../img/wgl_elementor_addon/icons/header-side_panel.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-header-wpml{
+    background-image: url(../img/wgl_elementor_addon/icons/header-wpml.png) !important;
+}
+.elementor-panel .elementor-element .icon .wgl-social-icons{
+    background-image: url(../img/wgl_elementor_addon/icons/social-icons.png) !important;
+}
+.wgl-radio-image img{
+    background-color: #ffffff;
+}
+.display_none {
+    display: none !important;
+}
+.wgl-radio-image label{
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    padding: 5px;
+    margin: 4px;
+    cursor: pointer;
+}
+.wgl-radio-image label > * {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+.wgl-radio-image label.selected:before {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 174, 240, 0.5);
+}
