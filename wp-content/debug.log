@@ -790,3 +790,5 @@
 [02-Oct-2023 13:22:02 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\Users\Mariem\Local Sites\mytraitment\app\public\wp-content\plugins\cleenday-core\includes\meta-box\inc\meta-box.php on line 334
 [02-Oct-2023 13:22:02 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\Users\Mariem\Local Sites\mytraitment\app\public\wp-content\plugins\cleenday-core\includes\meta-box\inc\meta-box.php on line 334
 [02-Oct-2023 13:22:06 UTC] PHP Deprecated:  Function get_page_by_title is <strong>deprecated</strong> since version 6.2.0! Use WP_Query instead. in C:\Users\Mariem\Local Sites\mytraitment\app\public\wp-includes\functions.php on line 5453
+[02-Oct-2023 13:37:01 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in C:\Users\Mariem\Local Sites\mytraitment\app\public\wp-content\plugins\woocommerce\src\Admin\DataSourcePoller.php on line 138
+[02-Oct-2023 13:37:01 UTC] PHP Deprecated:  Automatic conversion of false to array is deprecated in C:\Users\Mariem\Local Sites\mytraitment\app\public\wp-content\plugins\woocommerce\src\Admin\DataSourcePoller.php on line 138
